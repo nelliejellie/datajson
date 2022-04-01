@@ -10,10 +10,8 @@
             "aud",
             "cad",
             "nzd",
-            "chf",
-            "brl",
-            "pol",
-            "hkd"
+            "chf"
+       
           ]
         },
         {
